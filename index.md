@@ -1,7 +1,7 @@
 # Welcome Thrive Develpoment Platform
 
 _Drucker 1973_ :
-> _If you can't measure it, you can't manage it" (Drucker 1973)_
+> _"If you can't measure it, you can't manage it" (Drucker 1973)_
 
 _However,_ more importantly are we measuring **what matters most!**
 
@@ -16,9 +16,9 @@ THRIVE platform and associated Sustainability Performance Scorecard and Ciambell
 * Empowering individuals to actively **_stimulate competition_** among enterprises
 
 THRIVE platform is designed for:
-> _greater global shared value creation and collaborative peaceful partnerships for people, planet, profit with purpose and prosperity._
+> "_greater global shared value creation and collaborative peaceful partnerships for people, planet, profit with purpose and prosperity._"
 
-                                            _by Kolk et al 2017_
+<div style="text-align: right">_by Kolk et al 2017_</div>
 
 
 <div style="padding: 16px">
