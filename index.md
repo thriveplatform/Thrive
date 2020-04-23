@@ -1,7 +1,7 @@
 # Welcome Thrive Develpoment Platform
 
 _Drucker 1973_ :
-> _"If you can't measure it, you can't manage it" (Drucker 1973)_
+> _"If you can't measure it, you can't manage it"_
 
 _However,_ more importantly are we measuring **what matters most!**
 
