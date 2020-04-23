@@ -16,7 +16,7 @@ THRIVE platform and associated Sustainability Performance Scorecard and Ciambell
 * Empowering individuals to actively **_stimulate competition_** among enterprises
 
 THRIVE platform is designed for:
-> "_greater global shared value creation and collaborative peaceful partnerships for people, planet, profit with purpose and prosperity._"
+> "_Greater global shared value creation and collaborative peaceful partnerships for people, planet, profit with purpose and prosperity._"
 
 <div style="text-align: right"> <i> by Kolk et al 2017 </i></div>
 
