@@ -1,5 +1,3 @@
-# Welcome Thrive Develpoment Platform
-
 _Drucker 1973_ :
 > _"If you can't measure it, you can't manage it"_
 
