@@ -3,7 +3,7 @@ _Drucker 1973_ :
 
 _However,_ more importantly are we measuring **what matters most!**
 
-There is no doubt that _business sustainability_ is at the forefront of successful enterprises if indeed they are to succeed for many generations to come. As they move from mandatory statutory disclosure to voluntary exposure, The **_Holistic Regenerative Innovative Value Enterprise_** (THRIVE) framework offers the transformative trigger helping Enterprise ensure their future longevity.
+There is no doubt that _sustainability_ is at the forefront of successful enterprises, governments and countries, if indeed they are to succeed for many generations to come. As they move from mandatory statutory disclosure to voluntary exposure, The **_Holistic Regenerative Innovative Value Entity_** (THRIVE) framework offers the transformative trigger helping entities ensure their future longevity.
 
 THRIVE platform and associated Sustainability Performance Scorecard and Ciambella visualizations are **designed to provoke transformative change** by
 
