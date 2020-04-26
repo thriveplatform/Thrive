@@ -7,16 +7,15 @@ There is no doubt that _sustainability_ is at the forefront of successful enterp
 
 ---
 
-## _WHY_
+<span class="content-head"> <h2>_WHY_</h2></span>
 
 Enterprises transitioning towards strong sustainability require ways to assess their performance, in context, relative to past performance, industry peers, within their community, and region. The service is the “holy-grail”of business strategy,linking sustainable performance to organizational business model acting on a finite planet.
 
-## _HOW_
+<span class="content-head"> <h2>_HOW_</h2></span>
 
 Theo nlineweb-based, multi-capital, values-based, and science-based tool, uses public integrated sustainability reporting data for material topic identification. A modular, user customizable, agnostic formula engine,aggregates impact measures based on global thresholds and allocations into a composite sustainability performance index.
 
-
-## _WHAT_
+<span class="content-head"> <h2>_WHAT_</h2></span>
 
 Based on six years of trans-disciplinary research and design, the system gauges enterprise success through scale-linking at each level of impact. The system helps address wicked problems in transitioning to the circular economy by implementing back-casting targets whilst formulating their regenerative trajectory towards thrivable transformations.
 
