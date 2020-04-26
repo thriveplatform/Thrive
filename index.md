@@ -13,7 +13,7 @@ Enterprises transitioning towards strong sustainability require ways to assess t
 
 <i class="content-head">HOW</i>
 
-Theo nlineweb-based, multi-capital, values-based, and science-based tool, uses public integrated sustainability reporting data for material topic identification. A modular, user customizable, agnostic formula engine,aggregates impact measures based on global thresholds and allocations into a composite sustainability performance index.
+The online web-based, multi-capital, values-based, and science-based tool, uses public integrated sustainability reporting data for material topic identification. A modular, user customizable, agnostic formula engine,aggregates impact measures based on global thresholds and allocations into a composite sustainability performance index.
 
 <i class="content-head">WHAT</i>
 
@@ -35,7 +35,7 @@ THRIVE platform is designed for:
 
 <br>
 
-<img src="img/platform.JPG" alt="Platform Logo" width="600"/>
+<a href="http://www.strive2thrive.earth/"><img src="img/platform.JPG" alt="Platform Logo" width="600"/></a>
 
 
 
