@@ -1,0 +1,17 @@
+---
+---
+$background-light: #9575CD;
+@import "{{ site.theme }}";
+
+.content-head {
+    color: $background-light; 
+    font-size: large;
+}
+
+img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+
+}
