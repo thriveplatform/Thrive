@@ -6,12 +6,15 @@ $background-light: #9575CD;
 .content-head {
     color: $background-light; 
     font-size: large;
+    font-weight: bolder;
+    font-style: italic;
 }
 
 img {
-    position: absolute;
-    top: 0;
-    left: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     min-height: 300px;
 
 }
